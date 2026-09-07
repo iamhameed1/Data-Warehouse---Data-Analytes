@@ -1,5 +1,3 @@
-# Data-Warehouse---Data-Analytes
-
 ## Acknowledgment
 
 This project was created for learning and practice purposes, based on the original project by **Baraa Khatib Salkini**.
